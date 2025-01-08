@@ -45,6 +45,7 @@ Dự án này xây dựng một hệ thống giải toán hình học lớp 6, t
 *   **Bộ suy diễn (Backend):** Maple (sử dụng để thực hiện các thuật toán suy diễn, tính toán và xử lý các bài toán hình học).
 *   **Giao diện người dùng (Frontend):** HTML, CSS, JavaScript (xây dựng giao diện tương tác và kết nối với backend thông qua API).
 *   **Bộ suy diễn:** Maple.
+   ![Giao diện ban đầu](pic/cau-truc.png)
 
 ## Cấu trúc dự án
 
