@@ -67,6 +67,10 @@
                 height: 350px;
                 width: 35vw;
             }
+            .line {
+                height: 200px;
+                width: 35vw;
+            }
         }
 
         .search{
@@ -84,9 +88,48 @@
                     color: rgb(152, 150, 150);
                 }
             }
+            .text-doan {
+                resize: none; /* Disable manual resizing */
+                width: 35vw; /* Set width to 35% of viewport width */
+                min-height: 18vh; /* Minimum height */
+                padding: 10px; /* Inner padding for better readability */
+                font-size: 16px; /* Font size */
+                margin-bottom: 20px; /* Space below the textarea */
+                box-sizing: border-box; /* Include padding and border in width/height */
+                border: 3px solid transparent; /* Add a light border */
+                border-radius: 4px; /* Rounded corners */
+                transition: all 0.2s ease; /* Smooth transition for focus effects */
+            }
+            
+            .text-doan:focus {
+                outline: none; /* Remove the default outline */
+                border: 3px solid rgba(29, 138, 255, 0.527); /* Add a blue glow shadow */
+                background-color: #f8f9fa; /* Optional: Light background for focus */
+            }
             
         }
+        .button-group{
+            display: flex;
+            justify-content: space-between;
+            gap: 20px;
+            .button-type{
+                background-color: rgba(189, 189, 199, 0.868);
+                height: wrap;
+                width: 220px;
+                border-radius: 5%;
+                border: none;
+                outline: none;
+                cursor: pointer;
+                &:hover{
+                    background-color: rgba(98, 70, 238, 0.645);
+                }
+            }
+            .button-type.active {
+                background-color: rgba(98, 70, 238, 0.877);
+                color: white;
 
+            }
+        }
     }
 
     .result{
