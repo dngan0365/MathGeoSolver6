@@ -6,7 +6,7 @@
 </p>
 
 <!-- Header -->
-<h1 align="center"><b>HỆ CƠ SỞ TRI THỨC</b></h>
+<h1 align="center"><b>MACHINE LEARNING</b></h>
 
 <!-- Main -->
 ## Thành viên nhóm:
