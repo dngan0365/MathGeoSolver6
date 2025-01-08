@@ -71,12 +71,12 @@ Mở song song Backend và Client:
 
 ## Giao diện
 1. Giao diện ban đầu
-*   ![Giao diện ban đầu](pic/bandau1.png)
-*   ![Giao diện ban đầu](pic/bandau2.png)
+   ![Giao diện ban đầu](pic/bandau1.png)
+   ![Giao diện ban đầu](pic/bandau2.png)
 2. Giao diện nhập điểm, đoạn, đường, tia và kết quả
-*   ![Nhập bài toán](pic/Nhap.png)
-*   ![Kết quả bài toán](pic/KetQua.png)
+   ![Nhập bài toán](pic/Nhap.png)
+   ![Kết quả bài toán](pic/KetQua.png)
 3. Giao diện giải bái toán trong tam giác
-*   ![Nhập bài toán](pic/input.png)
-*   ![Kết quả bài toán](pic/output.png)
+   ![Nhập bài toán](pic/input.png)
+   ![Kết quả bài toán](pic/output.png)
 
